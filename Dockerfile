@@ -1,5 +1,5 @@
 FROM redhat/ubi8:latest
-MAINTAINER sanjay.dahiya332@gmail.com
+MAINTAINER satya66655@gmail.com
 RUN yum install -y httpd \
   zip \
  unzip 
